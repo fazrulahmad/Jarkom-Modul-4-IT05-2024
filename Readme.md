@@ -35,3 +35,58 @@ Di atas adalah hasil Tree dalam menggunakan metode VLSM.
 ## Pembagian IP
 
 # CIDR
+
+## Penggabungan Topologi
+
+**Level 0**
+![Level 0](./img/A.png)
+![Level 0](./img/rute.png)
+
+**Level 1**
+![Level 0](./img/B.png)
+![Level 1](./img/TP-1.png)
+
+**Level 2**
+![Level 0](./img/C.png)
+![Level 1](./img/TP-2.png)
+
+**Level 3**
+![Level 0](./img/D.png)
+![Level 1](./img/TP-3.png)
+
+**Level 4**
+![Level 0](./img/E.png)
+![Level 1](./img/TP-4.png)
+
+**Level 5**
+![Level 0](./img/F.png)
+![Level 1](./img/TP-5.png)
+
+**Level 6**
+![Level 0](./img/G.png)
+![Level 1](./img/TP-6.png)
+
+**Level 7**
+![Level 0](./img/H.png)
+![Level 1](./img/TP-7.png)
+
+**Level 8**
+![Level 0](./img/I.png)
+![Level 1](./img/TP-8.png)
+
+**Level 9**
+![Level 0](./img/J.png)
+![Level 1](./img/TP-9.png)
+
+**Level 10**
+![Level 0](./img/K.png)
+![Level 1](./img/TP-10.png)
+
+## Tree CIDR
+
+![Level 1](./img/Tree-CIDR.png)
+
+## Pembagian IP
+
+![Level 1](./img/IP.png)
+
