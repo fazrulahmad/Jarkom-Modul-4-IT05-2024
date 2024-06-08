@@ -88,5 +88,5 @@ Di atas adalah hasil Tree dalam menggunakan metode VLSM.
 
 ## Pembagian IP
 
-![Level 1](./img/IP.png)
+![Level 1](./img/IP-CIDR.png)
 
